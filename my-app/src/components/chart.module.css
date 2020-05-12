@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  width: 55%;
+  justify-content: center;
+  margin: 20px;
+}
+.barContainer {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+}
